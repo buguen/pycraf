@@ -17,7 +17,6 @@ __all__ = [
     'fl_G_max_from_hpbw', 'fl_G_max_from_size', 'fl_hpbw_from_size',
     ]
 
-
 def _fl_pattern_2_1(phi, diameter_over_wavelength, G_max):
     '''
     Antenna gain as a function of angular distance after `ITU-R Rec F.699
